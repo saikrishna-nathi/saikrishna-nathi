@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hi, I'm Sai Krishna Teja 👋
+# Hi, I'm Sai Krishna Teja !!
 
 ### Software Developer | AI & Data Analytics Enthusiast
 
